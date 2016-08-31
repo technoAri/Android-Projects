@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "129874737249",
+    "project_id": "delbirdgcm"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129874737249:android:638fc3cc757c267b",
+        "android_client_info": {
+          "package_name": "com.example.hppc.delbirdgcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDftIVFgOpX-4Iy_OWKIyOfZ-oFv7YqH1s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
